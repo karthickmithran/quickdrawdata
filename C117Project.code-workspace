@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Sketch_Identification"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C117Project"
+	}
+}
